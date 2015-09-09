@@ -1,0 +1,56 @@
+{
+  "name": "raphael",
+  "version": "2.1.4",
+  "description": "JavaScript Vector Library",
+  "main": "raphael.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DmitryBaranovskiy/raphael.git"
+  },
+  "author": {
+    "name": "Dmitry Baranovskiy"
+  },
+  "license": "MIT",
+  "gitHead": "55151daed59ca2612001e493c37f2fa8407d6be6",
+  "dependencies": {
+    "eve": "git://github.com/adobe-webplatform/eve.git#eef80ed"
+  },
+  "devDependencies": {
+    "uglify-js": "~2.2.3"
+  },
+  "bugs": {
+    "url": "https://github.com/DmitryBaranovskiy/raphael/issues"
+  },
+  "homepage": "https://github.com/DmitryBaranovskiy/raphael",
+  "_id": "raphael@2.1.4",
+  "_from": "raphael@",
+  "dist": {
+    "shasum": "b09ca664ad048b814bb2ff5d4d1e75838cab9c97",
+    "tarball": "http://registry.npmjs.org/raphael/-/raphael-2.1.4.tgz"
+  },
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "talabes",
+    "email": "tomas.alabes@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "marcuswestin",
+      "email": "narcvs@gmail.com"
+    },
+    {
+      "name": "shtylman",
+      "email": "shtylman@gmail.com"
+    },
+    {
+      "name": "talabes",
+      "email": "tomas.alabes@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "b09ca664ad048b814bb2ff5d4d1e75838cab9c97",
+  "_resolved": "https://registry.npmjs.org/raphael/-/raphael-2.1.4.tgz"
+}
